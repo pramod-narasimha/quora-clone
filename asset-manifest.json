@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/quora-clone/static/css/main.e39eeca5.chunk.css",
+    "main.js": "/quora-clone/static/js/main.be3031af.chunk.js",
+    "main.js.map": "/quora-clone/static/js/main.be3031af.chunk.js.map",
+    "runtime-main.js": "/quora-clone/static/js/runtime-main.655bc822.js",
+    "runtime-main.js.map": "/quora-clone/static/js/runtime-main.655bc822.js.map",
+    "static/css/2.f84572e1.chunk.css": "/quora-clone/static/css/2.f84572e1.chunk.css",
+    "static/js/2.a2c7182e.chunk.js": "/quora-clone/static/js/2.a2c7182e.chunk.js",
+    "static/js/2.a2c7182e.chunk.js.map": "/quora-clone/static/js/2.a2c7182e.chunk.js.map",
+    "index.html": "/quora-clone/index.html",
+    "precache-manifest.c702ed7428c6e99655462d82790d7594.js": "/quora-clone/precache-manifest.c702ed7428c6e99655462d82790d7594.js",
+    "service-worker.js": "/quora-clone/service-worker.js",
+    "static/css/2.f84572e1.chunk.css.map": "/quora-clone/static/css/2.f84572e1.chunk.css.map",
+    "static/css/main.e39eeca5.chunk.css.map": "/quora-clone/static/css/main.e39eeca5.chunk.css.map",
+    "static/media/user_profile.png": "/quora-clone/static/media/user_profile.60d23039.png"
+  }
+}
